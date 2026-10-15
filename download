@@ -1,0 +1,15 @@
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.dbf
+*.DBF
+*.fpt
+*.FPT
+*.cdx
+*.CDX
+.env*
+.streamlit/secrets.toml
+.venv/
+__pycache__/
+.pytest_cache/
